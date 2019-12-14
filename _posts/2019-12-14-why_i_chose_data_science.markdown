@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why I chose Data Science"
-date:       2019-12-14 20:14:15 +0000
+date:       2019-12-14 15:14:16 -0500
 permalink:  why_i_chose_data_science
 ---
 
@@ -13,5 +13,5 @@ Then, about a year ago, I was introduced to the data programming language R, and
 My skills with R have greatly impacted the work at EIP, and I understand the power that programming and data science can bring to small organizations like mine. For example, we maintain a website called [Ashtracker](http://ashtracker.org/), which presents groundwater contamination from coal ash disposal sites. In 2017, companies that owned 265 different coal ash disposal sites were required to report a year’s worth of groundwater monitoring data. Our organization, with the help of a few partner groups, collected,
 entered, checked, and finally presented all of that data on our website. With the use of a script I wrote in R, I was solely responsible for the final check, making sure there were no errors in our data. The data was also published in a report, where with the help of R, I got to run analysis on all the data we had put together. Just for reference, each site had between 8 and 20 different groundwater monitoring wells, each well measured concentrations for 21 different contaminants, and each well measured those contaminants on at least 8 different dates. The resulting dataframe was well over a million lines of data. But it was no problem to handle, thanks to R.
 
-Fast forward to today, I chose to further my education in data science through Flatiron to further reinforce concepts learned in prior courses and to add new programming lanugages to my data toolkit. I know firsthand how helpful these skills are to small organizations and goverment entities, and I want to continue increasing efficiency and analytical capacity for organizations like EIP by learning them.
+Fast forward to today, I chose to further my education in data science through Flatiron to further reinforce concepts learned in prior courses and to add new programming languages to my data toolkit. I know firsthand how helpful these skills are to small organizations and government entities, and I want to continue increasing efficiency and analytical capacity for organizations like EIP by learning them.
 
